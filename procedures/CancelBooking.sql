@@ -1,0 +1,4 @@
+DROP PROCEDURE IF EXISTS CancelBooking;
+
+CREATE PROCEDURE CancelBooking(BookingID INT)
+DELETE FROM Bookings WHERE ID = BookingID;

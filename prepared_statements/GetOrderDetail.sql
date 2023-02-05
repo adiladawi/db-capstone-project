@@ -1,0 +1,1 @@
+PREPARE GetOrderDetail FROM "SELECT Orders.ID AS OrderID, SUM(MenusOrders.Quantity) AS Quantity, Orders.TotalCost AS Cost FROM Orders JOIN MenusOrders ON MenusOrders.OrderID = Orders.ID WHERE Orders.CustomerID = ? GROUP BY Orders.ID";
