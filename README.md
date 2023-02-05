@@ -37,6 +37,7 @@ This repo contains the subset of commits with the results. I had to
 re-initialize it to exclude potentially copyrighted materials from the commit
 history.
 
-My initials: VK. Please check with my profile initials if from the course
+Initial letters from my course profile are: VK. Please check with my profile
+initials if from the course
 
 Submission date: 2023-02-05
