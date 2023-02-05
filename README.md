@@ -36,3 +36,5 @@ complex related queries which needed one extra `JOIN`.
 This repo contains the subset of commits with the results. I had to
 re-initialize it to exclude potentially copyrighted materials from the commit
 history.
+
+Submission date: 2023-02-05
